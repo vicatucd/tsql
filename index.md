@@ -12,4 +12,4 @@
 
 2 types of INDEXING
 - clustered index
-- - stores and organizes table, though less efficient
+  - stores and organizes table, though less efficient
