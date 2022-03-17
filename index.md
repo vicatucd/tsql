@@ -17,7 +17,7 @@
   - seperate structure, defined on 1+ columns on the table
 
 # GENERAL QUERY STRUCTURE
-`
+`SQL
 USE dbname
 
 GO
