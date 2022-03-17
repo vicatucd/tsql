@@ -12,13 +12,13 @@
 
 2 types of INDEXING
 - clustered index
-  - stores and organizes table, though less efficient
+    - stores and organizes table, though less efficient
 - non-cluster indexing
-  - seperate structure, defined on 1+ columns on the table
+    - seperate structure, defined on 1+ columns on the table
 
 # GENERAL QUERY STRUCTURE
-`USE dbname
-GO
+`USE dbname;
+GO;
 SELECT *
-FROM tbl
+FROM tbl;
 `
